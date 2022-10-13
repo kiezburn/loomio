@@ -90,7 +90,7 @@
   "devDependencies": {
     "chromedriver": "106.0.1",
     "@mdi/font": "^7.0.96",
-    "@vue/cli-plugin-pwa": "^4.5.15",
+    "@vue/cli-plugin-pwa": "^5.0.8",
     "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-e2e-nightwatch": "^4.5.15",
     "@vue/cli-service": "4.5.15",
